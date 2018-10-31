@@ -14,8 +14,13 @@
   padding: 0 0 0 1.42857rem;
 }
 
+#application .site-header .logo img {
+  max-width: 120px;
+  max-height: 120px;
+}
+
 #application .site-header, #application .app-footer {
-	background: #2176d2;
+  background:  #0086c8;
 }
 
 #application .site-header .page-title-container h1 {
